@@ -1,0 +1,10 @@
+.form-col{
+    background: rgb(65,128,105);
+    background: linear-gradient(90deg, rgba(65,128,105,1) 0%, rgba(153,223,66,1) 40%, rgba(59,179,121,1) 73%, rgba(0,255,158,1) 100%);
+}
+
+.login-col{
+    color: green;
+    text-decoration: none;
+}
+
